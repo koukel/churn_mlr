@@ -4,7 +4,7 @@
 
 This project is based on a project from my graduate program and altered in order to add to my public portfolio.  This serves as an early example of my abilities as a reference to see how I have grown as a data scientist.  The data used in this dataset is available in this repository.  It is the version cleaned during the project available in the "churn_data_cleaning" repository, which used data from [here](https://community.ibm.com/accelerators/catalog/content/Telco-customer-churn).
 
-In this project I have perfomed multiple linear regression modeling in order to determine what variables might contribute to the dration of customer tenure.
+In this project I have perfomed multiple linear regression modeling in order to determine what variables might contribute to the duration of customer tenure.
 
 ## Necessary Software
 
